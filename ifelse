@@ -1,0 +1,13 @@
+rcb=str(input(" enter rcb win or lose:"))
+if(rcb=="win"):
+    print("Ee sala cup namde")
+   
+else:
+    print("valakam pola namaku cup ila")
+
+
+
+
+
+
+
